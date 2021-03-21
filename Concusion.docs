@@ -1,0 +1,7 @@
+Esta practica para agregar un enrutamiento de una API de REST,
+el enrutamiento mediante atributos utiliza un conjunto de atributos
+para asignar acciones directamente a las plantillas de ruta.
+El uso de como parámetro de ruta con enrutamiento de atributos es un error común.
+También el código o el proyecto que use para hacer esta practica es el de MvcMovie,
+solo agrege las clases que modifique pero es ma practica de MvcMovie esta el proyecto 
+completo.
